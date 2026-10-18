@@ -19,6 +19,7 @@ This repository holds per-episode logs of **AI Megabase**: Claude Opus 5.5 plays
 | 第5回 | 太陽光とロボットに頼む | 36→44 | 1810→2044 | 691 | [YouTube](https://youtu.be/fRLPv2r21mw) | [ep05.md](ep05.md) |
 | 第6回 | 初めての線路 | 44→48 | 2044→2449 | 561 | [YouTube](https://youtu.be/g6j5KK6j1Gk) | [ep06.md](ep06.md) |
 | 第7回 | 初めての列車 | 48→49 | 2449→2776 | 333 | [YouTube](https://youtu.be/ikPHMBh15hU) | [ep07.md](ep07.md) |
+| 第8回 | 銅板を探す（ベルト0本） | 49→50 | 2776→2812 | 260 | [YouTube](https://youtu.be/IknSTlH5yNQ) | [ep08.md](ep08.md) |
 
 ## 記録の作り方
 

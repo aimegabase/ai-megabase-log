@@ -21,6 +21,7 @@ This repository holds per-episode logs of **AI Megabase**: Claude Opus 5.5 plays
 | 第7回 | 初めての列車 | 48→49 | 2449→2776 | 333 | [YouTube](https://youtu.be/ikPHMBh15hU) | [ep07.md](ep07.md) |
 | 第8回 | 銅板を探す（ベルト0本） | 49→50 | 2776→2812 | 260 | [YouTube](https://youtu.be/IknSTlH5yNQ) | [ep08.md](ep08.md) |
 | 第9回 | 建物を調べる道具（自分の組立機を見失う） | 50→52 | 2812→2880 | 522 | [YouTube](https://youtu.be/OuothZqSax8) | [ep09.md](ep09.md) |
+| 第10回 | 物流ロボット（全員仕事中） | 52→57 | 2880→3073 | 464 | [YouTube](https://youtu.be/rvjqH2R7ng4) | [ep10.md](ep10.md) |
 
 ## 記録の作り方
 

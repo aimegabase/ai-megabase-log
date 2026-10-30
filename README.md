@@ -26,6 +26,7 @@ This repository holds per-episode logs of **AI Megabase**: Claude Opus 5.5 plays
 | 第12回 | 列車の待ち方を8回変える | 62→62 | 3397→3520 | 186 | [YouTube](https://youtu.be/NyhvC1PKjt8) | [ep12.md](ep12.md) |
 | 第13回 | 列車にひかれて生き返る（自分あての配達が無効に） | 62→64 | 3520→3891 | 409 | [YouTube](https://youtu.be/g3_mkngMYRg) | [ep13.md](ep13.md) |
 | 第14回 | 道が見つからない列車に機関車を足す（荷下ろし口に機関車） | 65→65 | 3881→4048 | 518 | [YouTube](https://youtu.be/gBcABH_w-ro) | [ep14.md](ep14.md) |
+| 第15回 | 750マス先の銅へ線路を延ばす（曲がる線路が置けない） | 65→66 | 4048→（途中で停止） | 347 | [YouTube](https://youtu.be/eViPgEm3iN8) | [ep15.md](ep15.md) |
 
 ## 記録の作り方
 

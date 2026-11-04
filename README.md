@@ -28,6 +28,7 @@ This repository holds per-episode logs of **AI Megabase**: Claude Opus 5.5 plays
 | 第14回 | 道が見つからない列車に機関車を足す（荷下ろし口に機関車） | 65→65 | 3881→4048 | 518 | [YouTube](https://youtu.be/gBcABH_w-ro) | [ep14.md](ep14.md) |
 | 第15回 | 750マス先の銅へ線路を延ばす（曲がる線路が置けない） | 65→66 | 4048→（途中で停止） | 347 | [YouTube](https://youtu.be/eViPgEm3iN8) | [ep15.md](ep15.md) |
 | 第16回 | ロボポートを持ち歩いて750マス先の銅へ線路（銅の列車は空で来た・列車にひかれる） | 66→66 | 4259→5533 | 497 | [YouTube](https://youtu.be/swHKID4AitY) | [ep16.md](ep16.md) |
+| 第17回 | 銅不足が続く工場で列車に2回ひかれる（予定地の取り消し137回・2回目のあとは列車に乗客として乗る） | 66→68 | 5533→6207 | 349 | [YouTube](https://youtu.be/zR9X_TLOSug) | [ep17.md](ep17.md) |
 
 ## 記録の作り方
 

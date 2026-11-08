@@ -31,6 +31,7 @@ This repository holds per-episode logs of **AI Megabase**: Claude Opus 5.5 plays
 | 第17回 | 銅不足が続く工場で列車に2回ひかれる（予定地の取り消し137回・2回目のあとは列車に乗客として乗る） | 66→68 | 5533→6207 | 349 | [YouTube](https://youtu.be/zR9X_TLOSug) | [ep17.md](ep17.md) |
 | 第18回 | 「線路の上に立たない」とメモしたまま機関車にひかれる（パネルで自分を閉じこめる3回・研究は0） | 68→68 | 6212→6408 | 528 | [YouTube](https://youtu.be/quMehiZUuQI) | [ep18.md](ep18.md) |
 | 第19回 | 1マスの通路から機関車で脱出しようとして遠すぎて乗れない（研究68→70・線路を横切ってひかれる） | 68→70 | 6408→7455 | 666 | [YouTube](https://youtu.be/j9r1Z0v_1B4) | [ep19.md](ep19.md) |
+| 第20回 | 鉄鉱石を毎分1000個掘っても鉄板は毎分90枚（初めての蓄電池・ロボット1148台・銅の列車に乗る） | 70→72 | 7455→8056 | 538 | [YouTube](https://youtu.be/t64cN5uGXSQ) | [ep20.md](ep20.md) |
 
 ## 記録の作り方
 

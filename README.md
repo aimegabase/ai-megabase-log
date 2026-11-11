@@ -37,3 +37,10 @@ This repository holds per-episode logs of **AI Megabase**: Claude Opus 5.5 plays
 
 - 元はゲームの記録ファイル（各判断の「目標・今・次」と操作の結果）。約4分ごとに1行を抜き出しています
 - 「人間が変えたこと」（AI に見せるもの・使える操作の追加）は各動画の説明欄に書いています
+
+## ChatGPT版
+
+Claude版とは別のマップで進めるChatGPT版の記録です。
+
+- [ChatGPT版 第1回](chatgpt01.md) — 発電の増設工事で停電
+- [ChatGPT版 第2回](chatgpt02.md) — 地下ベルトの両端が入口に

@@ -44,3 +44,4 @@ Claude版とは別のマップで進めるChatGPT版の記録です。
 
 - [ChatGPT版 第1回](chatgpt01.md) — 発電の増設工事で停電
 - [ChatGPT版 第2回](chatgpt02.md) — 地下ベルトの両端が入口に
+- [ChatGPT版 第3回](chatgpt03.md) — 青科学が届かない原因を地下ベルトの入口まで戻って調べた

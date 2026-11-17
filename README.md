@@ -45,3 +45,6 @@ Claude版とは別のマップで進めるChatGPT版の記録です。
 - [ChatGPT版 第1回](chatgpt01.md) — 発電の増設工事で停電
 - [ChatGPT版 第2回](chatgpt02.md) — 地下ベルトの両端が入口に
 - [ChatGPT版 第3回](chatgpt03.md) — 青科学が届かない原因を地下ベルトの入口まで戻って調べた
+- [ChatGPT版 第4回](chatgpt04.md) — 材料を取り込む腕に給電し、物流ロボットを1機生産
+- [ChatGPT版 第5回](chatgpt05.md) — 燃料ベルトに混ざった鉄鉱石を止めて回収し、電力を復旧
+- [ChatGPT版 第6回](chatgpt06.md) — 地下ベルトはつながったが向きが逆。回し直して交差2か所を接続

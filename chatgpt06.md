@@ -21,4 +21,4 @@
 - [解説つきの動画](https://youtu.be/zd61WtBcQ1Q)
 - [ほぼ無編集版](https://youtu.be/SfQ6AncbmqM)
 - [note](https://note.com/aimegabase/n/n699578743ad4)
-- [前回](chatgpt05.md)
+- [前回](chatgpt05.md)　／　[次回](chatgpt07.md)

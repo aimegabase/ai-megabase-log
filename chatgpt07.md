@@ -27,3 +27,5 @@
 - [ほぼ無編集版](https://youtu.be/zPgbO71fOQU)
 - [note](https://note.com/aimegabase/n/n12ab0dd547ed)
 - [前回](chatgpt06.md)
+
+- [次回](chatgpt08.md)

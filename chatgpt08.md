@@ -35,3 +35,4 @@ ChatGPTの自律プレイ。AIの判断中はゲームを止め、人間はプ�
 - [ほぼ無編集版](https://youtu.be/Ff8BXEu6BwA)
 - [読む記録（note）](https://note.com/aimegabase/n/n84f8b847407e)
 - [前回](chatgpt07.md)
+- [次回](chatgpt09.md)

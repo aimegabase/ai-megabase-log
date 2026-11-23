@@ -49,3 +49,4 @@
 - ほぼ無編集版：https://youtu.be/Zff_tnxP5-I
 - note：https://note.com/aimegabase/n/n4ed426372f0e
 - [前回](chatgpt09.md)
+- [次回](chatgpt11.md)

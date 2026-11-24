@@ -32,3 +32,4 @@
 - ほぼ無編集版：https://youtu.be/fTMkePgbIYs
 - note：https://note.com/aimegabase/n/nab8f0d3eb464
 - [前回](chatgpt11.md)
+- [次回](chatgpt13.md)

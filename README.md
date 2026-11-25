@@ -56,3 +56,4 @@ Claude版とは別のマップで進めるChatGPT版の記録です。
 - [ChatGPT版 第11回](chatgpt11.md) — 材料138個。アームを回しても届かない。地下ベルトの入口を移して取り込みへ
 - [ChatGPT版 第12回](chatgpt12.md) — 銅を探して東へ。着いた先は行き止まり
 - [ChatGPT版 第13回](chatgpt13.md) — 燃料を増やすAI、製油所は電気待ち
+- [ChatGPT版 第14回](chatgpt14.md) — ガスは届いた。新しい樹脂工場は石炭待ち

@@ -40,3 +40,4 @@
 - ほぼ無編集版：https://youtu.be/umbplx2SlI8
 - note：https://note.com/aimegabase/n/n335e5b46b398
 - [前回](chatgpt12.md)
+- [次回](chatgpt14.md)

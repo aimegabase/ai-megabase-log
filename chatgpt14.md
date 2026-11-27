@@ -28,3 +28,4 @@
 - ほぼ無編集版：https://youtu.be/57Ipo3NEbjE
 - note：https://note.com/aimegabase/n/n37bdd7691a6f
 - [前回](chatgpt13.md)
+- [次回](chatgpt15.md)

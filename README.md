@@ -58,3 +58,4 @@ Claude版とは別のマップで進めるChatGPT版の記録です。
 - [ChatGPT版 第13回](chatgpt13.md) — 燃料を増やすAI、製油所は電気待ち
 - [ChatGPT版 第14回](chatgpt14.md) — ガスは届いた。新しい樹脂工場は石炭待ち
 - [ChatGPT版 第15回](chatgpt15.md) — 石炭到着、今度はガス待ち
+- [ChatGPT版 第16回](chatgpt16.md) — 原油400、製油所は待つ

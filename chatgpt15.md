@@ -84,3 +84,4 @@ AIの判断待ちはゲームを止め、その長い待機をほぼ無編集版
 - ほぼ無編集版：https://youtu.be/yO_JMJY7efA
 - note：https://note.com/aimegabase/n/n23e11b7624a1
 - [前回](chatgpt14.md)
+- [次回](chatgpt16.md)
